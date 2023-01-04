@@ -1,0 +1,25 @@
+
+.services{
+    width: 100%;
+}
+
+.serve-card {
+    border: none;
+    width: 16vw;
+    height: 18vw;
+    position: relative;
+    background-color: blue;
+    color: #fff;
+}
+
+.serve-card h1{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.serve-card h2{
+    position: absolute;
+    bottom: 0;
+    
+}
