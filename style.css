@@ -55,28 +55,28 @@ body{
     transition: opacity 0.4s, transform 0.4s;
     position: relative;
     /* border: 1px solid rgb(231, 206, 206); */
-    width: 25vw;
+    width: 32vw;
 }
 
 .slider-img-body{
-    width: 25vw;
-    height: 25vw;
+    width: 32vw;
+    height: 34vw;
     background: linear-gradient(149.38deg, #401E3B -43.08%, #281F2D 141.12%);
 box-shadow: 1.31106px 3.93319px 5.89978px rgba(0, 0, 0, 0.25);
 }
 
 .slider-img-body h1{
     position: absolute;
-    top: 0;
+    top: 2vw;
     right: 2vw;
-    font-size: 3vw;   
+    font-size: 4vw;   
  }
 
  .slider-img-body h2{
     position: absolute;
     bottom: 1vw;
     left: 1.4vw;
-    font-size: 2.2vw;
+    font-size: 3.2vw;
  }
 
 .slider-info{
@@ -87,7 +87,7 @@ box-shadow: 1.31106px 3.93319px 5.89978px rgba(0, 0, 0, 0.25);
     opacity: 1;
     transform: scale(1);
     position: relative;
-    height: 50vw;
+    height: 60vw;
     width: 50vw;
 }
 
@@ -101,15 +101,16 @@ box-shadow: 1.31106px 3.93319px 5.89978px rgba(0, 0, 0, 0.25);
 .owl-item.active.center .slider-item .slider-img-body{
     background: #2D235C;
     box-shadow: 1.76202px 5.28607px 7.92911px rgba(0, 0, 0, 0.25);
-    width: 24vw;
-    height: 26vw;
+    width: 26vw;
+    height: 37vw;
     position: relative;
+    margin-left: 1.5vw;
     
 }
 
 .owl-item.active.center .slider-item .slider-img-body h1{
    position: absolute;
-   top: 0;
+   top: 2vw;
    right: 2vw;
    font-size: 3vw;
     
@@ -126,7 +127,7 @@ box-shadow: 1.31106px 3.93319px 5.89978px rgba(0, 0, 0, 0.25);
     font-size: 2.2vw;
     position: absolute;
     left: -20vw;
-    top: 30vw;
+    top: 39vw;
     /* border: 1px solid wheat; */
     text-align: center;
     font-weight: 100;
@@ -273,14 +274,14 @@ box-shadow: 1.31106px 3.93319px 5.89978px rgba(0, 0, 0, 0.25);
     font-size:5vw;
 }
 
-
+/* 
 .slider-img-body{
     width: 25vw;
     height: 27vw;
     margin-left: 1vw;
-}
+} */
 
-
+/* 
 .slider-img-body h1{
     right: 2vw;
     font-size: 4vw;   
@@ -288,20 +289,19 @@ box-shadow: 1.31106px 3.93319px 5.89978px rgba(0, 0, 0, 0.25);
 
  .slider-img-body h2{
     font-size: 2.4vw;
- }
-
+ } */
+ 
  .owl-item.active.center .slider-item{
-    height: 60vw;
-    width: 50vw;
+    height: 70vw;
 }
 
-
+/*
  .owl-item.active.center .slider-item .slider-img-body{
     margin-left: 2vw;
     width: 23vw;   
     height: 27vw;
 }
-
+ */
 
 .owl-item.active.center .slider-item .slider-description {
     font-size: 3vw;
