@@ -13,22 +13,22 @@ $(document).ready(function()
                 items:1
             },
             
-            10:
+            2:
             {
                 items:2
             },
 
-            20:
+            2:
             {
                 items:3
             },
 
-            30:
+            3:
             {
                 items:4
             },
 
-            40:
+            4:
             {
                 items:5
             },
