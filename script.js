@@ -13,25 +13,25 @@ $(document).ready(function()
                 items:1
             },
             
-            2:
+            50:
             {
                 items:2
             },
 
-            2:
+            100:
             {
                 items:3
             },
 
-            3:
-            {
-                items:4
-            },
+            // 3:
+            // {
+            //     items:4
+            // },
 
-            4:
-            {
-                items:5
-            },
+            // 4:
+            // {
+            //     items:5
+            // },
 
         }
    
