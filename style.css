@@ -55,12 +55,12 @@ body{
     transition: opacity 0.4s, transform 0.4s;
     position: relative;
     /* border: 1px solid rgb(231, 206, 206); */
-    width: 32vw;
+    /* width: 32vw; */
 }
 
 .slider-img-body{
     width: 32vw;
-    height: 34vw;
+    height: 36vw;
     background: linear-gradient(149.38deg, #401E3B -43.08%, #281F2D 141.12%);
 box-shadow: 1.31106px 3.93319px 5.89978px rgba(0, 0, 0, 0.25);
 }
